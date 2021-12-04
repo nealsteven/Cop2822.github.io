@@ -1,3 +1,7 @@
+layout: page
+title: "abooutMe"
+permalink: https://Cop2822.github.io/aboutMe
+
 <html lang="en-US" dir="ltr" wtx-context="97019B4E-9E74-4EEA-AA86-E8BD2DC6995E"><head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
